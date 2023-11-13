@@ -47,7 +47,7 @@ width: 25%;
     height: 600px;
 }
 .imgperros{
-    background-image: url('../imgs/dogs-images.jpg');
+    background-image: url('imgs/dogs-images.jpg');
     background-size: cover; /* Esto asegura que la imagen cubra todo el fondo */
     background-position: center; /* Esto centra la imagen en el fondo */
     background-repeat: no-repeat; 
